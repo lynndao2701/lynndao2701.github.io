@@ -9,7 +9,7 @@ redirect_from:
 
 ## Contact
 
-* **Location:** Newcastle / Perth, Australia
+* **Location:** Perth, Australia
 * **Mobile:** +61 410 433 586
 * **Email:** [lynnd01.forwork@gmail.com](mailto:lynnd01.forwork@gmail.com)
 * **LinkedIn:** [linkedin.com/in/lynndao27](https://www.linkedin.com/in/lynndao27/)

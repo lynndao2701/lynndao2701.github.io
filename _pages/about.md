@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello, I'm Lynn Dao"
+title: "Hello, I'm June Luu"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,52 +8,41 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Business Analytics graduate from the University of Newcastle (Distinction, GPA 6.3/7.0 — highest in cohort), passionate about ICT Business Analysis, data analysis, and translating business needs into practical, data-driven solutions.
+I'm a Business Analytics graduate from the University of Newcastle, passionate about Business Analysis, ICT Business Analysis, and data-driven problem solving. I enjoy turning complex business challenges into structured insights, practical recommendations, and solutions that improve processes, systems, and decision-making.
 
-I have hands-on experience in stakeholder engagement, requirements gathering and documentation, process mapping (AS-IS/TO-BE), Power BI dashboard development, and reporting automation — gained across university internships, freelance work, and academic projects.
+Through my internship with the Newcastle Knights (The Wests Group), I benchmarked 20+ business membership programs across 11 NRL and AFL clubs, identifying market gaps to support a 2-tier Business Club strategy forecast to improve corporate member retention by 20% and accelerate identification of a suitable program structure by 30%. I delivered an evidence-based proposal covering objectives, target market analysis, pricing strategy, KPIs, and a 3-year financial forecast.
 
-During my internship with the University of Newcastle's Student Partnership Program (UON SPP), I analysed retention, demographic, academic, and engagement data for 10,000+ students using Power BI and Excel. This work identified enrolment risk patterns, contributed to a 5% year-on-year improvement in student retention, and supported 10% faster decision-making through interactive dashboards built with Power BI, DAX, and parameters — including visibility of a 94.5% enrolment rate and 1,452 successful retention calls.
+I've also completed hands-on projects in business process redesign, BI and ERP integration, NLP customer analysis, machine learning, and solution planning — giving me practical exposure to the intersection of business needs, technology, and performance improvement.
 
-I've also completed Deloitte's Virtual Data Analytics Job Simulation, where I analysed factory telemetry data and built an interactive Tableau dashboard that reduced downtime hotspot analysis time by an estimated 70–80%. Alongside this, I've delivered academic projects in business intelligence and CRM transformation, and applied NLP and topic modelling to turn unstructured customer feedback into actionable insights.
-
-**I'm currently seeking graduate or entry-level roles in ICT Business Analysis, Data Analysis, Business Intelligence, and Reporting.**
+**I'm currently seeking graduate or entry-level roles in Business Analysis, Data Analysis, Business Intelligence, and Reporting in Perth, WA.**
 
 ---
 
 ## Experience
 
-**Business Website Developer & Analyst** | Charl Nails and Wellness (Beauty Salon) | Mar 2026 – Present (Freelance)
-- Built and supported a customer-facing website, improving online service visibility, pricing clarity, and customer enquiry access by 85%
-- Gathered and translated salon business needs into website content, including service categories, pricing details, and booking information
-- Supported around 10% monthly growth in new customers and contributed to an 80% customer retention rate through improved online presence and demographic analysis
-
-**Data Analyst Intern** | Deloitte Australia, Virtual Data Analytics Job Simulation on Forage | Mar 2026 (Online)
-- Analysed telemetry data across 4 factories and 36 device combinations to identify the highest-downtime site and most failure-prone machine type
-- Built an interactive Tableau dashboard with calculated measures and dynamic filtering, reducing downtime hotspot analysis time by an estimated 70–80%
-- Converted machine status events into 10-minute downtime intervals, surfacing approximately 490 minutes of downtime in the worst-performing factory
-- Applied Excel classification logic to achieve 100% record coverage across pay equality decision categories
-
-**Retention Call Analyst Intern** | The University of Newcastle, UON SPP | Mar 2025 – Jul 2025 (Newcastle)
-- Analysed retention, demographic, academic, and engagement data for 10,000+ students using Power BI and Excel, contributing to a 5% year-on-year improvement in student retention
-- Automated Excel-based reporting workflows, reducing manual reporting time by 20% and improving accuracy of performance monitoring outputs
-- Conducted targeted data analysis to identify at-risk students, improving outreach efficiency by 10%
-- Developed advanced interactive Power BI dashboards using DAX and parameters, contributing to 10% faster decision-making
+**Business Analyst Intern** | The Wests Group (Newcastle Knights) | Mar 2025 – Jul 2025
+- Benchmarked 20+ business membership programs across 11 NRL and AFL clubs to identify pricing strategies and competitive gaps
+- Conducted market analysis and segmented target audiences by geography, industry, and behaviour
+- Designed an annual engagement program with VIP hospitality, networking, and professional development events
+- Defined KPIs for customer satisfaction, sales performance, and marketing effectiveness
+- Developed a 3-year financial forecast and delivered a strategic proposal covering pricing, growth, and brand exposure
 
 ---
 
 ## Education
 
 **Bachelor of Business Analytics** (Distinction) | University of Newcastle | Feb 2023 – Dec 2025
-- GPA: 6.3 / 7.0 (Highest in cohort)
-- Recipient of ASEAN Excellence Scholarship (30% tuition), 2023–2025
+- GPA: 6.2 / 7.0
+- ASEAN Excellence Scholarship, 2024
 - Academy Global Business Simulation Competition, 2024
+- Key subjects: Big Data Analytics, Data Wrangling and Visualisation, Predictive Modelling in Business, Machine Intelligence, AI in Business, BI and Data Management, Business Process Modelling, Cybersecurity for Business, Data Governance Using Blockchain
 
 ---
 
 ## Skills
 
-**Business Analysis:** Stakeholder engagement, requirements gathering and documentation, project planning and scheduling support, business process analysis, risk and issue tracking, governance and compliance frameworks, Waterfall and Agile/Scrum, workshop facilitation, UAT support, solution evaluation, process mapping (AS-IS/TO-BE)
+**Business Analysis:** Stakeholder Engagement, Requirements Elicitation, Process Mapping, BPMN, AS-IS/TO-BE Analysis, Gap Analysis, UAT Support, Documentation, Agile/Scrum
 
-**Technical:** Power BI (DAX, advanced parameters), SQL, Excel (PivotTables, LOOKUP functions, Power Query), Tableau, Python, MongoDB, SharePoint, JIRA, Microsoft Project, Monday.com, Lucidchart, Miro, Figma, Draw.io, BPMN
+**Technical:** Power BI, SQL, Excel, Tableau, Python, R Studio, Power Query, DAX, Machine Learning, JavaScript (Basic)
 
-**Languages:** English (Fluent) | Vietnamese (Native) | German (Basic)
+**Languages:** English (Fluent) | Vietnamese (Native) | Mandarin (Fluent) | Cantonese (Advanced)

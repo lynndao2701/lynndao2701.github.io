@@ -8,32 +8,32 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "June Luu"
+title                    : "Lynn Dao"
 title_separator          : "-"
-name                     : &name "June Luu"
-description              : &description "Business Analytics graduate specialising in business analysis, data analysis, and BI reporting."
-url                      : https://JuneLuu48.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Lynn Dao"
+description              : &description "ICT Business Analyst and Data Analyst graduate specialising in stakeholder engagement, process mapping, requirements analysis, and Power BI/data-driven reporting."
+url                      : https://lynndao2701.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "JuneLuu48/juneluu"
+repository               : "lynndao2701/lynndao2701.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar: "https://static.wixstatic.com/media/c53cc1_d5b2f9a6a20049c299927c15a6185e32~mv2.jpg"
-  name             : "June Luu"
-  pronouns         : "She/Her" 
-  bio              : "Business Analyst Graduate"
-  location         : "Perth, Western Australia"
-  uri              : "https://www.linkedin.com/in/june-luu-55372227b/"
-  email            : "buuquan2004@gmail.com" 
+  avatar: "https://static.wixstatic.com/media/e0521f_c18f56d0e3fd462bb7f02e460dbe2069~mv2.jpg/v1/fill/w_205,h_205,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/beauty_1755234707805_edited_edited.jpg"
+  name             : "Lynn Dao"
+  pronouns         : "She/Her"
+  bio              : "ICT Business Analyst | Data Analyst"
+  location         : "Newcastle / Perth, Australia"
+  uri              : "https://www.linkedin.com/in/lynn-dao-952962247/"
+  email            : "lynnd01.forwork@gmail.com"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "JuneLuu48"
+  github           : "lynndao2701"
   kaggle           : #N/A
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -47,7 +47,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "june-luu-55372227b"
+  linkedin         : "lynn-dao-952962247"
   mastodon         : # URL
   medium           : # Username
   pinterest        : # Username

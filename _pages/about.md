@@ -32,4 +32,4 @@ I've also learned that the best outcomes come from collaboration — asking the 
 
 ---
 
-📄 [View my full resume](/resume/) &nbsp;|&nbsp; 💼 [See my projects](/portfolio/) &nbsp;|&nbsp
+💼 [See my projects](/portfolio/)

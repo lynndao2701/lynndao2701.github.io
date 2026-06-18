@@ -5,7 +5,6 @@ excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
-  - /about.html
 ---
 
 I'm a Business Analytics graduate who believes the most valuable thing data can do is help people make better decisions — and I've spent the last few years learning how to make that happen.

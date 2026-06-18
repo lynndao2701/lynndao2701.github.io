@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello, I'm Lynn Dao"
+title: "Hi, I'm Lynn Dao"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,52 +8,28 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Business Analytics graduate from the University of Newcastle (Distinction, GPA 6.3/7.0 — highest in cohort), passionate about ICT Business Analysis, data analysis, and translating business needs into practical, data-driven solutions.
+I'm a Business Analytics graduate who believes the most valuable thing data can do is help people make better decisions — and I've spent the last few years learning how to make that happen.
 
-I have hands-on experience in stakeholder engagement, requirements gathering and documentation, process mapping (AS-IS/TO-BE), Power BI dashboard development, and reporting automation — gained across university internships, freelance work, and academic projects.
-
-During my internship with the University of Newcastle's Student Partnership Program (UON SPP), I analysed retention, demographic, academic, and engagement data for 10,000+ students using Power BI and Excel. This work identified enrolment risk patterns, contributed to a 5% year-on-year improvement in student retention, and supported 10% faster decision-making through interactive dashboards built with Power BI, DAX, and parameters — including visibility of a 94.5% enrolment rate and 1,452 successful retention calls.
-
-I've also completed Deloitte's Virtual Data Analytics Job Simulation, where I analysed factory telemetry data and built an interactive Tableau dashboard that reduced downtime hotspot analysis time by an estimated 70–80%. Alongside this, I've delivered academic projects in business intelligence and CRM transformation, and applied NLP and topic modelling to turn unstructured customer feedback into actionable insights.
-
-**I'm currently seeking graduate or entry-level roles in ICT Business Analysis, Data Analysis, Business Intelligence, and Reporting.**
+When I started university, I came in curious about technology and business but with a lot still to learn. What I discovered was a genuine passion for taking messy, complex information and turning it into something clear, useful, and actionable. By the time I graduated with Distinction (GPA 6.3/7.0, highest in my cohort), I had built real skills across data analysis, business intelligence, stakeholder engagement, and process improvement — not just in theory, but through work that had measurable impact.
 
 ---
 
-## Experience
+## What I've grown into
 
-**Business Website Developer & Analyst** | Charl Nails and Wellness (Beauty Salon) | Mar 2026 – Present (Freelance)
-- Built and supported a customer-facing website, improving online service visibility, pricing clarity, and customer enquiry access by 85%
-- Gathered and translated salon business needs into website content, including service categories, pricing details, and booking information
-- Supported around 10% monthly growth in new customers and contributed to an 80% customer retention rate through improved online presence and demographic analysis
+At the University of Newcastle's Strategy, Planning and Performance team , I was handed a dataset of over 10,000 students and asked to help understand why some were disengaging. I built Power BI dashboards from scratch, automated reporting workflows that used to take hours, and surfaced insights that helped the team reach students earlier. By the end of my internship, those efforts had contributed to a 5% improvement in student retention and 10% faster decision-making across the team.
 
-**Data Analyst Intern** | Deloitte Australia, Virtual Data Analytics Job Simulation on Forage | Mar 2026 (Online)
-- Analysed telemetry data across 4 factories and 36 device combinations to identify the highest-downtime site and most failure-prone machine type
-- Built an interactive Tableau dashboard with calculated measures and dynamic filtering, reducing downtime hotspot analysis time by an estimated 70–80%
-- Converted machine status events into 10-minute downtime intervals, surfacing approximately 490 minutes of downtime in the worst-performing factory
-- Applied Excel classification logic to achieve 100% record coverage across pay equality decision categories
+That experience taught me something important: good analysis isn't just about finding the answer — it's about communicating it in a way that actually moves things forward.
 
-**Retention Call Analyst Intern** | The University of Newcastle, UON SPP | Mar 2025 – Jul 2025 (Newcastle)
-- Analysed retention, demographic, academic, and engagement data for 10,000+ students using Power BI and Excel, contributing to a 5% year-on-year improvement in student retention
-- Automated Excel-based reporting workflows, reducing manual reporting time by 20% and improving accuracy of performance monitoring outputs
-- Conducted targeted data analysis to identify at-risk students, improving outreach efficiency by 10%
-- Developed advanced interactive Power BI dashboards using DAX and parameters, contributing to 10% faster decision-making
+Shortly after, I completed Deloitte's Data Analytics Job Simulation, where I analysed telemetry data across four factories, identified the worst-performing site and machine type, and built an interactive Tableau dashboard that cut downtime analysis time by an estimated 70–80%. I've also taken on freelance work building a business website for a local salon, gathering their requirements, translating their needs into a digital presence, and helping them grow their customer base by around 10% month-on-month.
 
 ---
 
-## Education
+## How I work
 
-**Bachelor of Business Analytics** (Distinction) | University of Newcastle | Feb 2023 – Dec 2025
-- GPA: 6.3 / 7.0 (Highest in cohort)
-- Recipient of ASEAN Excellence Scholarship (30% tuition), 2023–2025
-- Academy Global Business Simulation Competition, 2024
+I'm the kind of analyst who thinks about the business question first and the tool second. I ask: *what does this stakeholder actually need to know, and what's the clearest way to show it?* I'm comfortable working across Power BI, Excel, SQL, Tableau, and Python, and I bring the same care to writing a requirements document or mapping a process as I do to building a dashboard.
+
+I've also learned that the best outcomes come from collaboration — asking the right questions, listening carefully, and making sure the people I'm working with feel confident in what the data is telling them.
 
 ---
 
-## Skills
-
-**Business Analysis:** Stakeholder engagement, requirements gathering and documentation, project planning and scheduling support, business process analysis, risk and issue tracking, governance and compliance frameworks, Waterfall and Agile/Scrum, workshop facilitation, UAT support, solution evaluation, process mapping (AS-IS/TO-BE)
-
-**Technical:** Power BI (DAX, advanced parameters), SQL, Excel (PivotTables, LOOKUP functions, Power Query), Tableau, Python, MongoDB, SharePoint, JIRA, Microsoft Project, Monday.com, Lucidchart, Miro, Figma, Draw.io, BPMN
-
-**Languages:** English (Fluent) | Vietnamese (Native) | German (Basic)
+📄 [View my full resume](/resume/) &nbsp;|&nbsp; 💼 [See my projects](/portfolio/) &nbsp;|&nbsp; 👤 [More about me](/about_me/)

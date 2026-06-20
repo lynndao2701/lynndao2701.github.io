@@ -12,8 +12,6 @@ redirect_from:
 
 Business Analytics graduate (Distinction, GPA 6.3/7.0 — highest in cohort) with practical experience in data analysis, reporting automation, stakeholder engagement, and dashboard development. At the University of Newcastle's Student Partnership Program, I analysed retention, demographic, and engagement data for 10,000+ students using Power BI and Excel, contributing to a 5% year-on-year improvement in student retention and 10% faster decision-making across the team. Complemented by Deloitte's Data Analytics Job Simulation, freelance business website delivery, and academic project work spanning business intelligence, NLP, and machine learning.
 
-I am seeking graduate and entry-level roles in ICT Business Analysis, Data Analysis, Business Intelligence, and Reporting where I can contribute to real business outcomes.
-
 ---
  
 ## Currently

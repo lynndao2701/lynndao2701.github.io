@@ -2,7 +2,6 @@
 title: "AI-Powered Analysis of Starbucks Customer Feedback using NLP & LDA"
 excerpt: "Applied NLP and LDA topic modelling to unstructured Starbucks customer reviews to surface recurring themes around service quality, wait times, and staff management — enabling data-driven decision-making for customer experience improvement."
 collection: portfolio
-date: 2025-05-01
 header:
   teaser: "https://static.wixstatic.com/media/nsplsh_3c93d671a0154cac9459e4febb19d56e~mv2.jpg/v1/crop/x_804,y_0,w_2391,h_3000/fill/w_322,h_404,al_c,q_80,enc_avif,quality_auto/Image%20by%20USAMA%20AKRAM.jpg"
 ---

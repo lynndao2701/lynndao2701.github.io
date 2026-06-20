@@ -2,7 +2,6 @@
 title: "Multi-Agent AI System for Wildlife Detection & Collision Prevention"
 excerpt: "Designed and implemented an AI-powered wildlife detection system using YOLOv8x and a multi-agent architecture to assess collision risk and trigger real-time driver alerts near forested roads."
 collection: portfolio
-date: 2025-05-01
 header:
   teaser: "https://static.wixstatic.com/media/nsplsh_6af83cd8fdcf4f5189e533c054b54567~mv2.jpg/v1/crop/x_0,y_314,w_2576,h_3232/fill/w_322,h_404,al_c,q_80,enc_avif,quality_auto/Image%20by%20Mario%20Scheibl.jpg"
 ---

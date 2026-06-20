@@ -2,7 +2,6 @@
 title: "Predicting Corporate Default Risk Using Machine Learning"
 excerpt: "Applied machine learning to predict corporate default probability using financial ratios, ESG scores, and industry data — comparing Decision Tree, Logistic Regression, Random Forest, and SVM models to achieve up to 92% accuracy."
 collection: portfolio
-date: 2025-04-01
 header:
   teaser: "https://static.wixstatic.com/media/nsplsh_05803868cce447869d3b0c610f47b4b6~mv2.jpg/v1/crop/x_1406,y_0,w_3188,h_4000/fill/w_322,h_404,al_c,q_80,enc_avif,quality_auto/Image%20by%20Austin%20Hervias.jpg"
 ---

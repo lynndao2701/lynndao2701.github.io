@@ -2,7 +2,6 @@
 title: "Transforming Starbucks' CRM with Business Intelligence"
 excerpt: "Analysed why Starbucks' CRM and data systems failed during its 2008 downturn and proposed a modern BI-driven solution to improve personalisation, customer retention, and operational efficiency."
 collection: portfolio
-date: 2025-05-01
 header:
   teaser: "https://static.wixstatic.com/media/nsplsh_6a79347436535939417830~mv2_d_5915_3943_s_4_2.jpg/v1/crop/x_1386,y_0,w_3143,h_3943/fill/w_322,h_404,al_c,q_80,enc_avif,quality_auto/Image%20by%20TR.jpg"
 ---

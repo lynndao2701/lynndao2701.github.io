@@ -5,7 +5,7 @@ permalink: /about_me/
 author_profile: true
 ---
 
-I'm **Lynn Dao** — a Vietnamese-Australian based between Newcastle and Perth, and a Business Analytics graduate from the University of Newcastle (Distinction, GPA 6.3/7.0 — highest in cohort). Trilingual: fluent English, native Vietnamese, learning German. Outside work: swimming, food, and keeping up with new tech.
+I'm **Lynn Dao** — based in Perth, and a Business Analytics graduate from the University of Newcastle (Distinction, GPA 6.3/7.0 — highest in cohort). Trilingual: fluent English, native Vietnamese, learning German. Outside work: swimming, food, and keeping up with new tech.
 
 ---
 

@@ -2,7 +2,7 @@
 title: "Multi-Agent ML System for House Price Prediction & Forecasting"
 excerpt: "Built a hybrid machine learning framework combining Random Forest, ARIMA, and LSTM across a multi-agent architecture to predict individual property prices and forecast state-level housing market trends in Australia."
 collection: portfolio
-date: 2025-06-01
+
 header:
   teaser: "https://static.wixstatic.com/media/nsplsh_d5fd79981bf940b092fd052a5eda2c60~mv2.jpg/v1/crop/x_703,y_0,w_1595,h_2001/fill/w_322,h_404,al_c,q_80,enc_avif,quality_auto/Image%20by%20Jakub%20%C5%BBerdzicki.jpg"
 ---

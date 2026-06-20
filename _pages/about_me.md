@@ -5,18 +5,16 @@ permalink: /about_me/
 author_profile: true
 ---
 
-I'm **Lynn Dao** — a Vietnamese-Australian based between Newcastle and Perth. I graduated from the University of Newcastle with a Bachelor of Business Analytics (Distinction, GPA 6.3/7.0 — highest in cohort) and I'm building my career at the intersection of data, business analysis, and technology.
-
-Outside of work I enjoy swimming, exploring new food venues, and keeping up with the latest in tech. I'm trilingual — fluent in English, native in Vietnamese, and learning German — and I bring that same openness to learning into everything I do professionally.
+I'm **Lynn Dao** — a Vietnamese-Australian based between Newcastle and Perth, and a Business Analytics graduate from the University of Newcastle (Distinction, GPA 6.3/7.0 — highest in cohort). Trilingual: fluent English, native Vietnamese, learning German. Outside work: swimming, food, and keeping up with new tech.
 
 ---
 
-## What I'm currently doing
+## Currently
 
 <div class="ld-now">
-  <strong>💼 Freelance:</strong> Building and supporting a business website for Charl Nails and Wellness — translating business requirements into a digital presence that has contributed to ~10% monthly growth in new customers.<br/><br/>
+  <strong>💼 Freelance:</strong> Building and supporting a business website for Charl Nails and Wellness — translated business requirements into a live site that's driven ~10% monthly growth in new customers and an 85% improvement in online visibility.<br/><br/>
   <strong>🔍 Job seeking:</strong> Graduate and entry-level roles in ICT Business Analysis, Data Analysis, BI, and Reporting.<br/><br/>
-  <strong>📚 Learning:</strong> Deepening skills in SQL, Python data pipelines, and advanced Power BI.
+  <strong>📚 Learning:</strong> SQL, Python data pipelines, and advanced Power BI.
 </div>
 
 ---

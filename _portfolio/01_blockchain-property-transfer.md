@@ -2,7 +2,7 @@
 title: "Blockchain-Based Solution for Property Ownership Transfer"
 excerpt: "Designed and implemented a decentralised escrow system using Ethereum smart contracts, NFT-based digital property titles, and a ReactJS/Web3 dApp to automate and secure real estate ownership transfers."
 collection: portfolio
-date: 2025-04-01
+date: 2025-10-15
 header:
   teaser: "https://static.wixstatic.com/media/nsplsh_f9777d2550dd498796503f8ce75426b2~mv2.jpg/v1/crop/x_1589,y_0,w_2582,h_3240/fill/w_322,h_404,al_c,q_80,enc_avif,quality_auto/Image%20by%20GuerrillaBuzz.jpg"
 ---

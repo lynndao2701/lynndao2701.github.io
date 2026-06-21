@@ -1,72 +1,60 @@
 /* ==========================================================================
-   Lynn Dao — Visual Theme
-   Ink navy + warm amber, built for a data/BA portfolio
+   Lynn Dao – Custom Visual Enhancements
    ========================================================================== */
 
-@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&display=swap');
+/* ------------------------------------------------------------------
+   1. ACCENT COLOUR & GLOBAL TOKENS
+   ------------------------------------------------------------------ */
 
 :root {
-  --ld-ink:        #1c2b3a;
-  --ld-ink-light:  #2c4257;
-  --ld-amber:      #d98e3f;
-  --ld-amber-dark: #b8732a;
-  --ld-amber-tint: #faf1e3;
-  --ld-paper:      #fbf9f6;
-  --ld-card:       #ffffff;
-  --ld-text:       #374151;
-  --ld-subtle:     #6b7280;
-  --ld-border:     #e7e2d8;
-  --ld-radius:     6px;
+  --ld-teal:        #4a9b8e;
+  --ld-teal-light:  #e8f5f3;
+  --ld-teal-dark:   #357a6f;
+  --ld-warm:        #fafbfc;
+  --ld-text:        #2d3748;
+  --ld-subtle:      #718096;
+  --ld-border:      #e2e8f0;
+  --ld-radius:      10px;
+  --ld-shadow:      0 2px 12px rgba(74,155,142,0.10);
 }
 
 /* ------------------------------------------------------------------
-   BASE
+   2. GLOBAL BODY & TYPOGRAPHY
    ------------------------------------------------------------------ */
 
 body {
-  background-color: var(--ld-paper);
+  background-color: var(--ld-warm);
   color: var(--ld-text);
 }
 
-.page__content,
-.archive {
-  h1, h2, h3, h4 {
-    font-family: 'Space Grotesk', $sans-serif;
-    letter-spacing: -0.01em;
-  }
+.page__content {
+  font-size: 1.02em;
+  line-height: 1.7;
 
   h2 {
-    color: var(--ld-ink);
-    font-size: 1.3em;
-    font-weight: 600;
+    color: var(--ld-teal-dark);
+    border-bottom: 2px solid var(--ld-teal-light);
+    padding-bottom: 0.4em;
     margin-top: 2.2em;
-    padding-bottom: 0.5em;
-    border-bottom: none;
-    position: relative;
-
-    &::after {
-      content: '';
-      display: block;
-      width: 36px;
-      height: 3px;
-      background: var(--ld-amber);
-      margin-top: 0.5em;
-    }
+    font-weight: 700;
   }
 
   h3 {
-    color: var(--ld-ink);
-    font-weight: 600;
-    font-size: 1.05em;
+    color: var(--ld-text);
+    font-weight: 700;
+    margin-top: 1.6em;
   }
 
   a {
-    color: var(--ld-amber-dark);
-    text-decoration-color: rgba(184,115,42,0.35);
-    &:hover { color: var(--ld-ink); text-decoration-color: var(--ld-ink); }
+    color: var(--ld-teal);
+    text-decoration: none;
+    border-bottom: 1px solid rgba(74,155,142,0.35);
+    transition: color 0.15s ease, border-color 0.15s ease;
+    &:hover {
+      color: var(--ld-teal-dark);
+      border-color: var(--ld-teal-dark);
+    }
   }
-
-  strong { color: var(--ld-ink); }
 
   hr {
     border: none;
@@ -74,197 +62,176 @@ body {
     margin: 2.2em 0;
   }
 
-  p { line-height: 1.75; }
-}
-
-.page__title {
-  font-family: 'Space Grotesk', $sans-serif;
-  font-weight: 700;
-  color: var(--ld-ink);
+  strong { color: var(--ld-text); }
 }
 
 /* ------------------------------------------------------------------
-   MASTHEAD / NAV
+   3. PAGE TITLE
+   ------------------------------------------------------------------ */
+
+.page__title {
+  color: var(--ld-text);
+  border-bottom: 3px solid var(--ld-teal);
+  padding-bottom: 0.3em;
+  display: inline-block;
+}
+
+/* ------------------------------------------------------------------
+   4. MASTHEAD / NAV BAR
    ------------------------------------------------------------------ */
 
 .masthead {
-  background: var(--ld-ink);
-  border-bottom: none;
-  box-shadow: 0 1px 0 rgba(0,0,0,0.06);
+  background: #fff;
+  border-bottom: 2px solid var(--ld-teal);
+  box-shadow: 0 1px 8px rgba(74,155,142,0.08);
 
-  a { color: rgba(255,255,255,0.82) !important; font-weight: 500; }
-  a:hover { color: #fff !important; }
-
-  .site-title {
-    font-family: 'Space Grotesk', $sans-serif;
-    font-weight: 700;
-    color: #fff !important;
-    letter-spacing: -0.01em;
-  }
+  a { color: var(--ld-text) !important; font-weight: 500; }
+  a:hover { color: var(--ld-teal) !important; }
+  .site-title { font-weight: 700; letter-spacing: -0.3px; }
 }
-
-.greedy-nav { background: transparent; }
 
 .greedy-nav .visible-links a {
   position: relative;
   padding-bottom: 4px;
-
   &::before {
     content: '';
     position: absolute;
     bottom: 0; left: 0; right: 0;
     height: 2px;
-    background: var(--ld-amber);
+    background: var(--ld-teal);
     transform: scaleX(0);
     transform-origin: left;
-    transition: transform 0.18s ease;
+    transition: transform 0.2s ease;
   }
   &:hover::before { transform: scaleX(1); }
 }
 
 /* ------------------------------------------------------------------
-   SIDEBAR / AUTHOR BOX
+   5. AUTHOR SIDEBAR
    ------------------------------------------------------------------ */
 
 .sidebar {
-  background: var(--ld-card);
-  border-radius: 8px;
-  border: 1px solid var(--ld-border);
+  background: #fff;
+  border-radius: var(--ld-radius);
+  box-shadow: var(--ld-shadow);
   padding: 1.3em !important;
 }
 
 .author__avatar img {
   border-radius: 50%;
-  border: 3px solid var(--ld-amber-tint);
-  outline: 2px solid var(--ld-amber);
-  outline-offset: 2px;
+  border: 3px solid var(--ld-teal);
+  box-shadow: 0 2px 10px rgba(74,155,142,0.20);
 }
 
 .author__name {
-  font-family: 'Space Grotesk', $sans-serif;
-  color: var(--ld-ink) !important;
+  color: var(--ld-text) !important;
   font-weight: 700 !important;
 }
 
 .author__bio {
-  color: var(--ld-amber-dark) !important;
-  font-weight: 600;
-  font-size: 0.85em;
+  color: var(--ld-teal-dark) !important;
+  font-weight: 500;
+}
+
+.author__urls-wrapper button {
+  color: var(--ld-teal-dark) !important;
 }
 
 .author__urls a {
   color: var(--ld-subtle);
-  &:hover { color: var(--ld-amber-dark); }
-}
+  &:hover { color: var(--ld-teal); }
 
-.author__urls-wrapper button#author-social-icons {
-  background: var(--ld-ink);
-  border-color: var(--ld-ink);
-  color: #fff;
-  &:hover { background: var(--ld-amber-dark); border-color: var(--ld-amber-dark); }
+  i, .fa, .fab, .fas { color: var(--ld-teal); margin-right: 0.3em; }
 }
 
 /* ------------------------------------------------------------------
-   TABLES  (skill snapshot, certifications, languages)
+   6. MARKDOWN TABLES  (Skill Snapshot, Certifications, Languages)
    ------------------------------------------------------------------ */
 
 .page__content table {
-  border: 1px solid var(--ld-border);
-  border-radius: var(--ld-radius);
+  border-collapse: separate;
+  border-spacing: 0;
+  width: 100%;
+  margin: 1.4em 0 1.8em;
+  border-radius: 8px;
   overflow: hidden;
-  box-shadow: 0 1px 3px rgba(28,43,58,0.04);
-}
+  box-shadow: 0 1px 6px rgba(0,0,0,0.06);
+  border: 1px solid var(--ld-border);
 
-.page__content table th {
-  background: var(--ld-ink);
-  color: #fff;
-  font-family: 'Space Grotesk', $sans-serif;
-  font-weight: 600;
-  font-size: 0.85em;
-  text-transform: uppercase;
-  letter-spacing: 0.04em;
-  padding: 0.7em 1em;
-  border: none;
-}
-
-.page__content table td {
-  padding: 0.7em 1em;
-  border-top: 1px solid var(--ld-border);
-  font-size: 0.92em;
-  vertical-align: top;
-}
-
-.page__content table tr:nth-child(even) td {
-  background: var(--ld-amber-tint);
-}
-
-/* link-only table (no thead) used as a CTA row — style as buttons, not a data table */
-.page__content table:not(:has(th)) {
-  box-shadow: none;
-  border: none;
+  th {
+    background: var(--ld-teal);
+    color: #fff;
+    font-weight: 700;
+    text-align: left;
+    padding: 0.7em 1em;
+    font-size: 0.92em;
+  }
 
   td {
-    background: var(--ld-amber-tint) !important;
-    border: 1px solid var(--ld-border);
-    border-radius: var(--ld-radius);
-    text-align: center;
-    font-weight: 600;
-    padding: 0.9em 1em;
+    padding: 0.7em 1em;
+    border-top: 1px solid var(--ld-border);
+    font-size: 0.92em;
+    vertical-align: top;
+  }
 
-    a { color: var(--ld-ink); }
+  tr:nth-child(even) td {
+    background: var(--ld-teal-light);
+  }
+
+  tr:hover td {
+    background: #f0f9f7;
   }
 }
 
 /* ------------------------------------------------------------------
-   EXPERIENCE / PROJECT BLOCKS — left amber rule on h3 sections
+   7. SECTION-LEVEL CALLOUT  (used for "Currently" lists etc.)
    ------------------------------------------------------------------ */
 
-.page__content h3 {
-  padding-left: 0.85em;
-  border-left: 3px solid var(--ld-amber);
-  margin-top: 1.8em;
+.page__content h2 + ul {
+  background: var(--ld-teal-light);
+  border-left: 4px solid var(--ld-teal);
+  border-radius: 0 var(--ld-radius) var(--ld-radius) 0;
+  padding: 1em 1.4em 1em 2.2em;
+  margin: 1em 0 1.6em;
 }
 
 /* ------------------------------------------------------------------
-   PORTFOLIO ARCHIVE CARDS
+   8. PORTFOLIO GRID  (archive / portfolio page)
    ------------------------------------------------------------------ */
 
 .archive__item {
-  background: var(--ld-card);
+  background: #fff;
   border: 1px solid var(--ld-border);
-  border-radius: 8px;
-  padding: 1.1em 1.2em;
-  margin-bottom: 1.4em;
-  box-shadow: 0 1px 4px rgba(28,43,58,0.05);
-  transition: transform 0.16s ease, box-shadow 0.16s ease, border-color 0.16s ease;
+  border-radius: var(--ld-radius);
+  padding: 1.2em;
+  margin-bottom: 1.5em;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+  transition: transform 0.18s ease, box-shadow 0.18s ease;
 
   &:hover {
-    transform: translateY(-3px);
-    box-shadow: 0 10px 24px rgba(28,43,58,0.10);
-    border-color: var(--ld-amber);
+    transform: translateY(-4px);
+    box-shadow: 0 8px 24px rgba(74,155,142,0.16);
   }
 }
 
-.archive__item-title {
-  font-family: 'Space Grotesk', $sans-serif;
-  a {
-    color: var(--ld-ink) !important;
-    font-weight: 600;
-    &:hover { color: var(--ld-amber-dark) !important; }
-  }
+.archive__item-title a {
+  color: var(--ld-teal-dark) !important;
+  font-weight: 700;
+  border-bottom: none !important;
+  &:hover { color: var(--ld-teal) !important; }
 }
 
 .archive__item-teaser {
-  border-radius: 6px;
+  border-radius: 8px;
   overflow: hidden;
   margin-bottom: 0.8em;
 
   img {
     width: 100%;
-    height: 190px;
+    height: 200px;
     object-fit: cover;
     display: block;
-    transition: transform 0.3s ease;
+    transition: transform 0.25s ease;
   }
 }
 
@@ -275,35 +242,19 @@ body {
 .archive__item-excerpt {
   font-size: 0.9em;
   color: var(--ld-subtle);
-  line-height: 1.65;
-}
-
-.page__meta {
-  color: var(--ld-amber-dark);
-  font-weight: 600;
-  font-size: 0.78em;
-  text-transform: uppercase;
-  letter-spacing: 0.03em;
+  line-height: 1.6;
 }
 
 /* ------------------------------------------------------------------
-   FOOTER
-   ------------------------------------------------------------------ */
-
-.page__footer {
-  background: var(--ld-ink);
-  color: rgba(255,255,255,0.65);
-
-  a { color: rgba(255,255,255,0.85); &:hover { color: var(--ld-amber); } }
-  .page__footer-copyright { color: rgba(255,255,255,0.5); }
-}
-
-/* ------------------------------------------------------------------
-   RESPONSIVE
+   9. RESPONSIVE
    ------------------------------------------------------------------ */
 
 @media (max-width: 768px) {
-  .page__content table td,
-  .page__content table th { padding: 0.5em 0.7em; font-size: 0.85em; }
+  .page__content table {
+    font-size: 0.85em;
+
+    th, td { padding: 0.5em 0.6em; }
+  }
+
   .archive__item-teaser img { height: 160px; }
 }
